@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-clubserveauth-dev-211054-authRole",
+      "UnauthRoleArn": "arn:aws:iam::366225890850:role/amplify-clubserveauth-dev-211054-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::366225890850:role/amplify-clubserveauth-dev-211054-authRole",
+      "Region": "eu-west-2",
+      "DeploymentBucketName": "amplify-clubserveauth-dev-211054-deployment",
+      "UnauthRoleName": "amplify-clubserveauth-dev-211054-unauthRole",
+      "StackName": "amplify-clubserveauth-dev-211054",
+      "StackId": "arn:aws:cloudformation:eu-west-2:366225890850:stack/amplify-clubserveauth-dev-211054/e07ef1e0-4307-11eb-81fc-0a24f54ba32e",
+      "AmplifyAppId": "df4w4cua88mfx"
+    },
+    "categories": {
+      "auth": {
+        "clubserveauth092b2b36": {}
+      }
+    }
+  }
+}
