@@ -55,3 +55,18 @@
     transform: rotate(360deg);
   }
 }
+
+amplify-authenticator {
+  --background-color: rgba(255, 0, 0, 0.829);
+  --width: 500px;
+  --container-align: center	;
+}
+.signOutButton {
+  position: absolute;
+  top: 10%;
+  left: 25%;
+  width: 50%;
+}
+amplify-sign-in {
+  --footer-color: rgba(255, 0, 0, 0.829);
+}
